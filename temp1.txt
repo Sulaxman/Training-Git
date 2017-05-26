@@ -1,0 +1,21 @@
+stack name -- KAJA-HDC
+
+Adop UN -- sulaxman
+pass -- computer
+
+
+
+
+
+
+\\10.211.132.12\training$
+
+
+
+Hi All,
+
+Please use below credentials to login to AWS.
+
+User name	Password	Console login link
+IDC_DevOps_Academy1_Admin	aS[-${NG=-K6	https://idc-devops-academy.signin.aws.amazon.com/console
+
